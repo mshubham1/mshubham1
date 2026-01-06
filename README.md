@@ -1,150 +1,133 @@
-👋 Hi, I’m Shubham Mourya
-🚀 Computer Vision & Generative AI Engineer
+# 👋 Hi, I’m **Shubham Mourya** 🚀  
+### Computer Vision & Generative AI Engineer
 
-4+ years | Real-time AI | Edge AI | LLMs | MLOps
+**4+ years | Real-time AI | Edge AI | LLMs | MLOps**
 
-I build production-grade AI systems that combine Computer Vision + LLM reasoning, optimized for real-time edge and cloud deployments.
-My work is deployed across 10+ industrial sites, improving safety, performance, and automation at scale.
+I build **production-grade AI systems** that combine **Computer Vision + LLM reasoning**, optimized for **real-time edge and cloud deployments**.  
+My work is deployed across **10+ industrial sites**, improving **safety, performance, and automation at scale**.
 
-🧠 About Me
+---
 
-🔍 Specialized in YOLO-based real-time computer vision
+## 🧠 About Me
 
-🤖 Build LLM-powered RAG systems & AI agents
+- 🔍 Specialized in **YOLO-based real-time computer vision**
+- 🤖 Build **LLM-powered RAG systems & AI agents**
+- ⚡ Optimize AI models for **NVIDIA Jetson** using **TensorRT**
+- ☁️ Deploy scalable AI systems using **Docker, Kubernetes & Cloud**
+- 📈 Strong focus on **performance, reliability & MLOps**
 
-⚡ Optimize AI models for NVIDIA Jetson using TensorRT
+---
 
-☁️ Deploy scalable AI systems using Docker, Kubernetes & Cloud
+## 🛠️ Tech Stack
 
-📈 Strong focus on performance, reliability & MLOps
+### 👁️ Computer Vision & AI
+- YOLOv5 / YOLOv8 (Detection, Pose Estimation, Tracking)
+- CNNs, Transfer Learning, Model Optimization
+- OpenCV, PyTorch, TensorFlow, Keras
 
-🛠️ Tech Stack
-👁️ Computer Vision & AI
+### 🤖 Generative AI & NLP
+- LLMs: OpenAI, Gemini, LLaMA
+- RAG Systems, Prompt Engineering
+- LangChain, FAISS, Hugging Face
 
-YOLOv5 / YOLOv8 (Detection, Pose Estimation, Tracking)
+### ⚡ Edge AI
+- NVIDIA Jetson (Xavier NX, Orin)
+- TensorRT (FP16 / INT8)
+- Model Pruning & Quantization
 
-CNNs, Transfer Learning, Model Optimization
+### ☁️ Backend, Cloud & MLOps
+- FastAPI, Django, Flask
+- Docker, Kubernetes, MLflow, Airflow
+- AWS (EC2, Lambda, S3), GCP, Azure
+- CI/CD Pipelines
 
-OpenCV, PyTorch, TensorFlow, Keras
+### 💻 Languages
+- Python, C++, JavaScript, Bash
 
-🤖 Generative AI & NLP
+---
 
-LLMs: OpenAI, Gemini, LLaMA
+## 💼 Experience
 
-RAG Systems, Prompt Engineering
+### **Computer Vision Engineer**  
+**Detect Technologies** | *Sep 2022 – Present*
 
-LangChain, FAISS, Hugging Face
+- Built end-to-end **real-time CV platforms** for industrial safety monitoring
+- Improved incident visibility by **35%+**
+- Designed **AI copilots & autonomous agents** combining CV + LLM reasoning
+- Developed **LLM-powered RAG systems**, reducing investigation time by **60%+**
+- Optimized inference on **NVIDIA Jetson** using TensorRT (**40–300% speedups**)
+- Deployed scalable microservices using **FastAPI, Docker & Kubernetes**
 
-⚡ Edge AI
+---
 
-NVIDIA Jetson (Xavier NX, Orin)
+### **Associate Engineer**  
+**Tata Consultancy Services** | *May 2021 – Sep 2022*
 
-TensorRT (FP16 / INT8)
+- Developed and maintained **Django-based healthcare applications**
+- Deployed applications on **AWS**
+- Worked in **Agile teams** with strong focus on testing & code quality
 
-Model Pruning & Quantization
+---
 
-☁️ Backend, Cloud & MLOps
+## 🚀 Key Projects
 
-FastAPI, Django, Flask
+### 🔹 Real-Time Edge AI Vision System
+**Tech:** YOLOv5 / YOLOv8, TensorRT, NVIDIA Jetson Orin, OpenCV, Python
 
-Docker, Kubernetes, MLflow, Airflow
+- Designed **low-latency edge AI pipelines** for detection & pose estimation
+- Applied **pruning, quantization & TensorRT acceleration**
+- Achieved **40–300% inference speedup**
+- Deployed in environments with **unstable network conditions**
 
-AWS (EC2, Lambda, S3), GCP, Azure
+---
 
-CI/CD Pipelines
+### 🔹 LLM-Powered Incident Intelligence Platform
+**Tech:** OpenAI, Gemini, LangChain, FAISS, FastAPI
 
-💻 Languages
+- Converted raw CV events into **structured incident reports**
+- Built **agent-style workflows**:  
+  **CV Detection → Metadata Extraction → Vector Retrieval → LLM Reasoning → Reports**
+- Reduced hallucinations using **prompt engineering + RAG**
+- Standardized compliance reporting & reduced manual effort
 
-Python, C++, JavaScript, Bash
+---
 
-💼 Experience
-Computer Vision Engineer
+## 🎓 Education
 
-Detect Technologies | Sep 2022 – Present
+**International Institute of Information Technology (I²IT), Pune**  
+**Bachelor of Engineering – Information Technology** (2017–2021)  
+**CGPA:** 7.74
 
-Built end-to-end real-time CV platforms for industrial safety monitoring
+---
 
-Improved incident visibility by 35%+
+## 📜 Certifications
 
-Designed AI copilots & autonomous agents combining CV + LLM reasoning
+- NVIDIA DLI – Fundamentals of Deep Learning for Computer Vision
+- Deep Learning Specialization – Andrew Ng (Coursera)
+- AWS Machine Learning Specialty
 
-Developed LLM-powered RAG systems reducing investigation time by 60%+
+---
 
-Optimized inference on NVIDIA Jetson using TensorRT, achieving 40–300% speedups
+## 🏆 Achievements
 
-Deployed scalable microservices using FastAPI, Docker & Kubernetes
+- 🏭 AI safety systems deployed across **10+ industrial sites**
+- ⚡ Automated **MLOps workflows** (deployment time: **days → hours**)
+- 🥇 **Best Innovation in AI Safety 2024** – Detect Technologies
 
-Associate Engineer
+---
 
-Tata Consultancy Services | May 2021 – Sep 2022
+## 📊 GitHub Stats
+*(Check the stats section on your profile for live updates)*
 
-Developed and maintained Django-based healthcare applications
+---
 
-Deployed applications on AWS
+## 📫 Contact
 
-Worked in Agile teams with strong emphasis on testing & code quality
+- 💻 **GitHub:** [https://github.com/mshubham1](https://github.com/mshubham1)
+- 💼 **LinkedIn:** [https://linkedin.com/in/shubham-mourya-140398](https://linkedin.com/in/shubham-mourya-140398)
+- 📧 **Email:** shubhammourya2014@gmail.com
 
-🚀 Key Projects
-🔹 Real-Time Edge AI Vision System
+---
 
-Tech: YOLOv5 / YOLOv8, TensorRT, NVIDIA Jetson Orin, OpenCV, Python
-
-Designed low-latency edge AI pipelines for detection & pose estimation
-
-Applied pruning, quantization & TensorRT acceleration
-
-Achieved 40–300% inference speedup
-
-Deployed in environments with unstable network conditions
-
-🔹 LLM-Powered Incident Intelligence Platform
-
-Tech: OpenAI, Gemini, LangChain, FAISS, FastAPI
-
-Converted raw CV events into structured incident reports
-
-Built agent-style workflows:
-
-CV Detection → Metadata Extraction → Vector Retrieval → LLM Reasoning → Reports
-
-
-Reduced hallucinations using prompt engineering + RAG
-
-Standardized compliance reporting & reduced manual effort
-
-🎓 Education
-
-International Institute of Information Technology (I²IT), Pune
-Bachelor of Engineering – Information Technology (2017–2021)
-CGPA: 7.74
-
-📜 Certifications
-
-NVIDIA DLI – Fundamentals of Deep Learning for Computer Vision
-
-Deep Learning Specialization – Andrew Ng (Coursera)
-
-AWS Machine Learning Specialty
-
-🏆 Achievements
-
-🏭 AI safety systems deployed across 10+ industrial sites
-
-⚡ Automated MLOps workflows (deployment time days → hours)
-
-🥇 Best Innovation in AI Safety 2024 – Detect Technologies
-
-📊 GitHub Stats
-
-
-
-
-📫 Contact
-
-💻 GitHub: https://github.com/mshubham1
-
-💼 LinkedIn: https://linkedin.com/in/shubham-mourya-140398
-
-📧 Email: shubhammourya2014@gmail.com
-
-⭐ If you like my work, consider starring my repositories!
+⭐ **If you like my work, consider starring my repositories!**  
+Let’s build **real-time, scalable, production AI systems** together 🚀
