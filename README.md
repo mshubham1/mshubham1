@@ -1,29 +1,150 @@
-<h1 align="center">Hi 👋, I'm SHUBHAM MOURYA</h1>
-<h3 align="center">Started #66daysofdata challenge to get hands-on practice in Data Science.</h3>
+👋 Hi, I’m Shubham Mourya
+🚀 Computer Vision & Generative AI Engineer
 
-- 🔭 I’m currently working on **Machine Learning**
+4+ years | Real-time AI | Edge AI | LLMs | MLOps
 
-- 🌱 I’m currently learning **Machine Learning Model Building in modular approach**
+I build production-grade AI systems that combine Computer Vision + LLM reasoning, optimized for real-time edge and cloud deployments.
+My work is deployed across 10+ industrial sites, improving safety, performance, and automation at scale.
 
-- 👯 I’m looking to collaborate on [Visibility Prediction](https://github.com/mshubham1/Visibility-Climate)
+🧠 About Me
 
-- 🤝 I’m looking for help with **Model Deployment**
+🔍 Specialized in YOLO-based real-time computer vision
 
-- 📝 I regularly write articles on [www.medium.com/@shubhammourya2014](www.medium.com/@shubhammourya2014)
+🤖 Build LLM-powered RAG systems & AI agents
 
-- 📫 How to reach me **Python, Statistics, Data Preprocessing, Numpy, Pandas, Seaborn and data visualization**
+⚡ Optimize AI models for NVIDIA Jetson using TensorRT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-mourya-140398/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-mourya-140398/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shubhammourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shubhammourya" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhammourya2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhammourya2014" height="30" width="40" /></a>
-</p>
+☁️ Deploy scalable AI systems using Docker, Kubernetes & Cloud
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+📈 Strong focus on performance, reliability & MLOps
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshubham1&show_icons=true&locale=en&layout=compact" alt="mshubham1" /></p>
+🛠️ Tech Stack
+👁️ Computer Vision & AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshubham1&show_icons=true&locale=en" alt="mshubham1" /></p>
+YOLOv5 / YOLOv8 (Detection, Pose Estimation, Tracking)
 
+CNNs, Transfer Learning, Model Optimization
+
+OpenCV, PyTorch, TensorFlow, Keras
+
+🤖 Generative AI & NLP
+
+LLMs: OpenAI, Gemini, LLaMA
+
+RAG Systems, Prompt Engineering
+
+LangChain, FAISS, Hugging Face
+
+⚡ Edge AI
+
+NVIDIA Jetson (Xavier NX, Orin)
+
+TensorRT (FP16 / INT8)
+
+Model Pruning & Quantization
+
+☁️ Backend, Cloud & MLOps
+
+FastAPI, Django, Flask
+
+Docker, Kubernetes, MLflow, Airflow
+
+AWS (EC2, Lambda, S3), GCP, Azure
+
+CI/CD Pipelines
+
+💻 Languages
+
+Python, C++, JavaScript, Bash
+
+💼 Experience
+Computer Vision Engineer
+
+Detect Technologies | Sep 2022 – Present
+
+Built end-to-end real-time CV platforms for industrial safety monitoring
+
+Improved incident visibility by 35%+
+
+Designed AI copilots & autonomous agents combining CV + LLM reasoning
+
+Developed LLM-powered RAG systems reducing investigation time by 60%+
+
+Optimized inference on NVIDIA Jetson using TensorRT, achieving 40–300% speedups
+
+Deployed scalable microservices using FastAPI, Docker & Kubernetes
+
+Associate Engineer
+
+Tata Consultancy Services | May 2021 – Sep 2022
+
+Developed and maintained Django-based healthcare applications
+
+Deployed applications on AWS
+
+Worked in Agile teams with strong emphasis on testing & code quality
+
+🚀 Key Projects
+🔹 Real-Time Edge AI Vision System
+
+Tech: YOLOv5 / YOLOv8, TensorRT, NVIDIA Jetson Orin, OpenCV, Python
+
+Designed low-latency edge AI pipelines for detection & pose estimation
+
+Applied pruning, quantization & TensorRT acceleration
+
+Achieved 40–300% inference speedup
+
+Deployed in environments with unstable network conditions
+
+🔹 LLM-Powered Incident Intelligence Platform
+
+Tech: OpenAI, Gemini, LangChain, FAISS, FastAPI
+
+Converted raw CV events into structured incident reports
+
+Built agent-style workflows:
+
+CV Detection → Metadata Extraction → Vector Retrieval → LLM Reasoning → Reports
+
+
+Reduced hallucinations using prompt engineering + RAG
+
+Standardized compliance reporting & reduced manual effort
+
+🎓 Education
+
+International Institute of Information Technology (I²IT), Pune
+Bachelor of Engineering – Information Technology (2017–2021)
+CGPA: 7.74
+
+📜 Certifications
+
+NVIDIA DLI – Fundamentals of Deep Learning for Computer Vision
+
+Deep Learning Specialization – Andrew Ng (Coursera)
+
+AWS Machine Learning Specialty
+
+🏆 Achievements
+
+🏭 AI safety systems deployed across 10+ industrial sites
+
+⚡ Automated MLOps workflows (deployment time days → hours)
+
+🥇 Best Innovation in AI Safety 2024 – Detect Technologies
+
+📊 GitHub Stats
+
+
+
+
+📫 Contact
+
+💻 GitHub: https://github.com/mshubham1
+
+💼 LinkedIn: https://linkedin.com/in/shubham-mourya-140398
+
+📧 Email: shubhammourya2014@gmail.com
+
+⭐ If you like my work, consider starring my repositories!
